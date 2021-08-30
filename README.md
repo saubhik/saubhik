@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Computer Science graduate student at Georgia Institute of Technology, Atlanta, GA, USA. I love to know more about computing systems 💻 and algorithmics 🧠.
+Computer Science graduate student at Georgia Institute of Technology, Atlanta, GA, USA. I love to know more about systems 💻 and algorithmics 🧠.
 
-You can know reach me [here](https://www.linkedin.com/in/saubhikm/).
+You can reach me [here](https://www.linkedin.com/in/saubhikm/).
         
 <!--
 **saubhik/saubhik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
