@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-Computer Science graduate student at Georgia Institute of Technology, Atlanta, GA, USA.
-I love to write systems code.
-
 You can reach me [here](https://www.linkedin.com/in/saubhikm/).
         
 <!--
